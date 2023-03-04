@@ -1,0 +1,8 @@
+body{
+    height:95vh;
+    background-image:radial-gradient(#333 0%,#151515 100%);
+    color:#E4E4E4;
+    font-family:"Comic Sans MS",Arial,Helvetica;
+    font-size: 20pt;
+}
+h1{text-align:center}
